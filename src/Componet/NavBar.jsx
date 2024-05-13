@@ -1,0 +1,40 @@
+import React from 'react';
+import ima1 from '../assets/1.png'
+import { Link } from 'react-router-dom';
+
+const NavBar = () => {
+
+  const navlinke = <>
+    <li><Link to='/'>Home</Link></li>
+    <li><Link to='/service</li>'>Service</Link></li>
+    <li><Link to='/staff'>Staff</Link></li>
+    <li><Link to='/history'>History</Link></li>
+  </>
+    return (
+        <div  className="navbar  bg-[#FFE073]">
+  <div className="navbar-start">
+    <div className="dropdown">
+      <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
+        <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
+      </div>
+      <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
+        {navlinke}
+      </ul>
+    </div>
+   <img src={ima1} className='w-8' alt="" />
+  </div>
+  <div className="navbar-center hidden lg:flex">
+    <ul className="menu menu-horizontal px-1">
+      <li><a>Home</a></li>
+      
+      <li><a>Service</a></li>
+    </ul>
+  </div>
+  <div className="navbar-end">
+    <a className="btn btn-success text-white">Button</a>
+  </div>
+</div>
+    );
+};
+
+export default NavBar;
