@@ -1,0 +1,46 @@
+[
+    {
+      "id": 1,
+      "name": "Adhan",
+      "time": "before each prayer time",
+      "description": "Call to Prayer",
+      "icon": "🕌"
+    },
+    {
+      "id": 2,
+      "name": "Iqama",
+      "time": "immediately before congregational prayer",
+      "description": "Second Call to Prayer",
+      "icon": "🕋"
+    },
+    {
+      "id": 3,
+      "name": "Sunnah Prayer",
+      "time": "before obligatory congregational prayer",
+      "description": "Additional voluntary prayers",
+      "icon": "🤲"
+    },
+    {
+      "id": 4,
+      "name": "Khutbah",
+      "time": "before Friday congregational prayer",
+      "description": "Sermon delivered by the Imam",
+      "icon": "📖"
+    },
+    {
+      "id": 5,
+      "name": "Congregational Prayer",
+      "time": "regular prayer times",
+      "description": "Main prayer performed in congregation",
+      "icon": "🙏"
+    },
+    {
+      "id": 6,
+      "name": "Dua",
+      "time": "end of service",
+      "description": "Time for personal supplications",
+      "icon": "🤲"
+    }
+    
+  ]
+  

@@ -21,7 +21,7 @@ const NavBar = () => {
         {navlinke}
       </ul>
     </div>
-   <img src={ima1} className='w-8' alt="" />
+   <img src={ima1} className='w-11 ' alt="" />
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">
