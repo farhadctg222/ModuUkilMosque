@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "title": "The Meaning of the Holy Qur'an",
+      "author": "Abdullah Yusuf Ali",
+      "price": 20.99,
+      "description": "A renowned translation and commentary of the Quran.",
+      "picture": "https://example.com/images/quran.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Sealed Nectar",
+      "author": "Safiur Rahman Al-Mubarakpuri",
+      "price": 15.50,
+      "description": "A biography of the Prophet Muhammad (peace be upon him).",
+      "picture": "https://example.com/images/sealed_nectar.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Revive Your Heart: Putting Life in Perspective",
+      "author": "Nouman Ali Khan",
+      "price": 12.99,
+      "description": "Reflections on faith, hope, and love.",
+      "picture": "https://example.com/images/revive_your_heart.jpg"
+    },
+    {
+      "id": 4,
+      "title": "The Forty Hadith of Imam Nawawi",
+      "author": "Imam Nawawi",
+      "price": 10.75,
+      "description": "A collection of forty hadith selected by Imam Nawawi.",
+      "picture": "https://example.com/images/forty_hadith.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Fiqh al-Sunnah",
+      "author": "Sayyid Sabiq",
+      "price": 18.25,
+      "description": "A comprehensive guide to Islamic jurisprudence based on the Quran and Sunnah.",
+      "picture": "https://example.com/images/fiqh_sunnah.jpg"
+    },
+    {
+      "id": 6,
+      "title": "In the Footsteps of the Prophet: Lessons from the Life of Muhammad",
+      "author": "Tariq Ramadan",
+      "price": 14.50,
+      "description": "Insights into the life and teachings of Prophet Muhammad.",
+      "picture": "https://example.com/images/footsteps_prophet.jpg"
+    }
+  ]
